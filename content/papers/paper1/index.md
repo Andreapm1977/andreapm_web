@@ -1,17 +1,17 @@
 ---
-title: "Paper Title 1" 
-date: 2012-06-01
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
-description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
+title: "Measuring spatial effects in the presence of institutional constraints: The case of Italian Local Health Authority expenditure"
+date: 2014-06-01
+tags: ["health","spatial","expenditures","econometrics"]
+author: ["Vincenzo Atella", "Federico Belotti", "Domenico Depalo", "Andrea Piano Mortari"]
+description: "We investigate the issue of measuring spatial spillovers in the presence of institutional constraints that can be geographically defined"
+summary: "We partition the standard contiguity matrix in two matrices (within and between), disentangling the overall spatial effect and deriving testable implications. In the application we study expenditures from the Italian Local Health Authority using spatial panel"
 cover:
     image: "paper1.png"
-    alt: "Image caption"
+    alt: "Total spillovers effect partition"
     relative: false
 editPost:
-    URL: "https://doi.org/10.1257/aer.102.4.1721"
-    Text: "Journal Name"
+    URL: "https://doi.org/10.1016/j.regsciurbeco.2014.07.007"
+    Text: "Regional Science and Urban Economics"
 
 ---
 
@@ -20,18 +20,17 @@ editPost:
 ##### Download
 
 + [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/job-rationing)
+
 
 ---
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Over the last decades spatial econometric models have represented a common tool for measuring spillover effects across different geographical entities (counties, provinces, regions or nations). The aim of this paper is to investigate the issue of measuring spatial spillovers in the presence of institutional constraints that can be geographically defined. In these cases, assuming that spatial effects are not affected by the institutional setting may produce biased estimates due to the composition of two distinct sources of spatial dependence. Our approach is based on redefining the contiguity structure so as to account for the institutional constraints using two different contiguity matrices: the within matrix, which defines contiguity among units obeying the same institutional setting, and the between matrix, which traces spatial linkages among contiguous units across different jurisdictions. This approach allows to disentangle the two sources of spatial correlation and to easily test for the existence of binding institutional constraints. From the econometric perspective, we extend Lacombe (2004) approach to incorporate the aforementioned institutional constraints in a spatial Durbin model with individual specific slopes, while inference is conducted using a two-way cluster robust variance–covariance matrix controlling for both spatial and time correlations. We apply this methodology to analyze spatial dependence of per-capita public health expenditures in Italyat Local Health Authority level using a balanced panel dataset from 2001 to 2005. Our results show robust evidence of a significant and positive spatial coefficient for the within effect, while the between effect, although significant, is very close to zero, thus confirming the importance and validity of the proposed approach.
 
 ---
 
-##### Figure X: Figure caption
+##### Total, direct and indirect spatial effect partition
 
 ![](paper1.png)
 
@@ -39,25 +38,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Citation
 
-Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+Vincenzo Atella, Federico Belotti, Domenico Depalo, Andrea Piano Mortari, "Measuring spatial effects in the presence of institutional constraints: The case of Italian Local Health Authority expenditure", *Regional Science and Urban Economics*, Volume 49, 2014, https://doi.org/10.1016/j.regsciurbeco.2014.07.007.
 
 ```BibTeX
-@article{AAYY,
-author = {Author},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title ={Title},
-volume = {Volume},
-year = {Year}}
+@article{atella_measuring_2014,
+author = {Atella, Vincenzo and Belotti, Federico and Depalo, Domenico and Piano Mortari, Andrea},
+doi = {10.1016/j.regsciurbeco.2014.07.007},
+journal = {Regional Science and Urban Economics},
+pages = {232--241},
+title ={Measuring spatial effects in the presence of institutional constraints: {The} case of {Italian} {Local} {Health} {Authority} expenditure},
+volume = {49},
+year = {2014}}
 ```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Dissertation title](https://escholarship.org/uc/item/7jr3m96r) – PhD dissertation on which this paper is based.
-+ [Column title](https://cep.lse.ac.uk/pubs/download/cp365.pdf) – Nontechnical column describing the paper.
-

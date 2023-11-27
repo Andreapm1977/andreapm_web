@@ -1,5 +1,5 @@
 baseURL: "https://Andreapm1977.github.io/"
-title: Prof. Name
+title: Andrea Piano Mortari
 paginate: 20
 theme: PaperMod
 
@@ -12,22 +12,18 @@ taxonomies:
 menu:
     main:
         - name: Papers
-          url: papers/
+          url: /papers/
           weight: 1
         - name: Courses
-          url: courses/
+          url: /courses/
           weight: 2
-        - name: Data
-          url: data/
+        - name: Projects
+          url: /projects/
           weight: 3
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: "I am a Professor of Subject at the University of Place. My research covers various topics.I am an Assistant Professor of Economics at University of Rome Tor Vergata. My main interests are in micro health econometrics, microsimulation and healthcare policy"
+    author: Andrea Piano Mortari
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,44 +46,38 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-          imageUrl: "picture.jpeg"
+          title: Andrea Piano Mortari
+          subtitle: "I am an Assistant Professor of Economics at University of Rome Tor Vergata. My main interests are in micro health econometrics, microsimulation and healthcare policy."
+          imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Prof. Andrea Piano Mortari
           buttons:
             - name: Papers
-              url: papers/
+              url: /papers/
             - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
+              url: /courses/
+            - name: Projects
+              url: /projects/
             - name: Tags
-              url: tags/
+              url: /tags/
             - name: Archive
-              url: archive/
+              url: /archive/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: CV.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:piano.mortari@economia.uniroma2.it
         - name: Location
-          url: location/
+          url: /location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://scholar.google.com/citations?user=VsruSUcAAAAJ&hl=it
+        - name: Orcid
+          url: https://orcid.org/0000-0002-7220-2352
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://github.com/Andreapm1977
 
     assets:
         disableHLJS: true
@@ -96,7 +86,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Andrea Piano Mortari"
       icon: favicon.ico
       iconHeight: 18
 
