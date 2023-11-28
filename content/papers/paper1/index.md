@@ -1,7 +1,7 @@
 ---
 title: "Measuring spatial effects in the presence of institutional constraints: The case of Italian Local Health Authority expenditure"
 date: 2014-06-01
-tags: ["health","spatial","expenditures","econometrics"]
+tags: ["Health","Spatial","Expenditures","Econometrics"]
 author: ["Vincenzo Atella", "Federico Belotti", "Domenico Depalo", "Andrea Piano Mortari"]
 description: "We investigate the issue of measuring spatial spillovers in the presence of institutional constraints that can be geographically defined"
 summary: "We partition the standard contiguity matrix in two matrices (within and between), disentangling the overall spatial effect and deriving testable implications. In the application we study expenditures from the Italian Local Health Authority using spatial panel"
@@ -42,7 +42,7 @@ Vincenzo Atella, Federico Belotti, Domenico Depalo, Andrea Piano Mortari, "Measu
 
 ```BibTeX
 @article{atella_measuring_2014,
-author = {Atella, Vincenzo and Belotti, Federico and Depalo, Domenico and Piano Mortari, Andrea},
+author = {Atella, Vincenzo and Belotti, Federico and Depalo, Domenico and {Piano Mortari}, Andrea},
 doi = {10.1016/j.regsciurbeco.2014.07.007},
 journal = {Regional Science and Urban Economics},
 pages = {232--241},

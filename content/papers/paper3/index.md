@@ -1,7 +1,7 @@
 ---
-title: "Spatial panel-data models using Stata"
+title: "Excess body weight increases the burden of age-associated chronic diseases and their associated health care expenditures"
 date: 2017-03-01
-tags: ["Software","Spatial","Econometrics"]
+tags: ["Expenditures","BMI","Ageing","Multimorbidity"]
 author: ["Federico Belotti", "Gordon Hughes", "Andrea Piano Mortari"]
 description: "xsmle is a user-written command for spatial panel analysis."
 summary: "xsmle allows for a wide set of fixed- and random-effects spatial models for balanced panel data. Unbalanced panels can be handled using its full compatibility with the mi suite of commands. Spatial weight matrices can be Stata matrices and spmat objects"
@@ -41,15 +41,16 @@ _mi_ suite of commands, use spatial weight matrices in the form of both Stata ma
 
 Belotti, F., Hughes, G., & Piani Mortari, A. (2017). Spatial Panel-data Models Using Stata. The Stata Journal, 17(1), 139-180. https://doi.org/10.1177/1536867X1701700109
 
-```BibTeX
-@article{sj_2017,
-	author = {Federico Belotti and Gordon Hughes and Andrea {Piano Mortari}},
-	journal = {The Stata Journal},
-	number = {1},
-	pages = {139-180},
-	title = {Spatial panel data models using Stata},
-	volume = {17},
-	year = 2017}
+```
+@article{IMA:IMA2,
+	author = {Atella, Vincenzo and Kopinska, Joanna and Medea, Gerardo and Belotti, Federico and Tosti, Valeria and Mortari, Andrea Piano and Cricelli, Claudio and Fontana, Luigi},
+	journal = {Aging},
+	number = {10},
+	pages = {882-892},
+	title = {Excess body weight increases the burden of age-associated chronic diseases and their associated health care expenditures},
+	volume = {7},
+	year = {2015}}
+
 ```
 
 

@@ -47,8 +47,8 @@ params:
     profileMode:
           enabled: true
           title: Andrea Piano Mortari
-          subtitle: "I am an Assistant Professor of Economics at University of Rome Tor Vergata. My main interests are in micro health econometrics, microsimulation and healthcare policy."
-          imageUrl: "/picture.jpeg"
+          subtitle: "I am an Assistant Professor of Economics at Tor Vergata University of Rome. My main interests are in micro health econometrics, microsimulation and healthcare policy."
+          imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Prof. Andrea Piano Mortari
@@ -69,7 +69,7 @@ params:
         - name: Email
           url: mailto:piano.mortari@economia.uniroma2.it
         - name: Location
-          url: /location/
+          url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
