@@ -38,11 +38,11 @@ Over the last decades spatial econometric models have represented a common tool 
 
 ##### Citation
 
-Vincenzo Atella, Federico Belotti, Domenico Depalo, Andrea Piano Mortari, "Measuring spatial effects in the presence of institutional constraints: The case of Italian Local Health Authority expenditure", *Regional Science and Urban Economics*, Volume 49, 2014, https://doi.org/10.1016/j.regsciurbeco.2014.07.007.
+Vincenzo, A., Belotti, F., Depalo, D. & Piano Mortari, A. "Measuring spatial effects in the presence of institutional constraints: The case of Italian Local Health Authority expenditure", *Regional Science and Urban Economics*, Volume 49, 2014, https://doi.org/10.1016/j.regsciurbeco.2014.07.007.
 
 ```BibTeX
 @article{atella_measuring_2014,
-author = {Atella, Vincenzo and Belotti, Federico and Depalo, Domenico and {Piano Mortari}, Andrea},
+author = {Atella, V. and Belotti, F. and Depalo, D. and {Piano Mortari}, A.},
 doi = {10.1016/j.regsciurbeco.2014.07.007},
 journal = {Regional Science and Urban Economics},
 pages = {232--241},

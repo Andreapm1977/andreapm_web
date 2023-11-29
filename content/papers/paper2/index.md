@@ -39,11 +39,11 @@ _mi_ suite of commands, use spatial weight matrices in the form of both Stata ma
 
 ##### Citation
 
-Belotti, F., Hughes, G., & Piani Mortari, A. (2017). Spatial Panel-data Models Using Stata. The Stata Journal, 17(1), 139-180. https://doi.org/10.1177/1536867X1701700109
+Belotti, F., Hughes, G., & Piano Mortari, A. (2017). "Spatial Panel-data Models Using Stata". *The Stata Journal*, 17(1), 139-180. https://doi.org/10.1177/1536867X1701700109
 
 ```BibTeX
 @article{sj_2017,
-	author = {Federico Belotti and Gordon Hughes and Andrea {Piano Mortari}},
+	author = {Belotti, F. and Hughes, G. and {Piano Mortari}, A.},
 	journal = {The Stata Journal},
 	number = {1},
 	pages = {139-180},

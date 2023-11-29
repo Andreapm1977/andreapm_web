@@ -1,17 +1,17 @@
 ---
 title: "Excess body weight increases the burden of age-associated chronic diseases and their associated health care expenditures"
-date: 2017-03-01
+date: 2015-10-01
 tags: ["Expenditures","BMI","Ageing","Multimorbidity"]
-author: ["Federico Belotti", "Gordon Hughes", "Andrea Piano Mortari"]
-description: "xsmle is a user-written command for spatial panel analysis."
-summary: "xsmle allows for a wide set of fixed- and random-effects spatial models for balanced panel data. Unbalanced panels can be handled using its full compatibility with the mi suite of commands. Spatial weight matrices can be Stata matrices and spmat objects"
+author: ["Vincenzo Atella", "Joanna Kopinska", "Gerardo Medea", "Federico Belotti", "Valeria Tosti", "Andrea Piano Mortari", "Claudio Cricelli", "Luigi Fontana"]
+description: "We study how aging and excessive adiposity drive increasing health costs."
+summary: "In this very large study, 557,145 men and women older than 18 years were analyzed to assess the association between aging, excessive adiposity drive and health costs"
 cover:
-    image: "paper2.png"
-    alt: "xsmle postestimation: predicted FE"
+    image: "paper3.png"
+    alt: "Inpatient and outpatient costs differentials wrt normal weight"
     relative: false
 editPost:
-    URL: "https://doi.org/10.1177/1536867X1701700109"
-    Text: "The Stata Journal"
+    URL: "https://doi.org/10.18632/aging.100833"
+    Text: "Aging"
 
 ---
 
@@ -19,31 +19,29 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Code and data](https://Andreapm1977.github.io)
++ [Paper](paper3.pdf)
 
 ---
 
 ##### Abstract
 
-_xsmle_ is a new user-written command for spatial analysis. We consider the quasi–maximum likelihood estimation of a wide set of both fixed- and random-effects spatial models for balanced panel data. _xsmle_ allows users to handle unbalanced panels using its full compatibility with the
-_mi_ suite of commands, use spatial weight matrices in the form of both Stata matrices and _xsmle_ objects, compute direct, indirect, and total marginal effects and related standard errors for linear (in variables) specifications, and exploit a wide range of postestimation features, including the panel-data case predictors of Kelejian and Prucha (2007, _Regional Science and Urban Economics_ 37: 363–374). Moreover, _xsmle_ allows the use of _margins_ to compute total marginal effects in the presence of nonlinear specifications obtained using factor variables. In this article, we describe the command and all of its functionalities using simulated and real data.
+Aging and excessive adiposity are both associated with an increased risk of developing multiple chronic diseases, which drive ever increasing health costs. The main aim of this study was to determine the net (non‐estimated) health costs of excessive adiposity and associated age‐related chronic diseases. We used a prevalence‐based approach that combines accurate data from the Health Search CSD‐LPD, an observational dataset with patient records collected by Italian general practitioners and up‐to‐date health care expenditures data from the SiSSI Project. In this very large study, 557,145 men and women older than 18 years were observed at different points in time between 2004 and 2010. The proportion of younger and older adults reporting no chronic disease decreased with increasing BMI. After adjustment for age, sex, geographic residence, and GPs heterogeneity, a strong J‐shaped association was found between BMI and total health care costs, more pronounced in middle‐aged and older adults. Relative to normal weight, in the 45‐64 age group, the per‐capita total cost was 10% higher in overweight individuals, and 27 to 68% greater in patients with obesity and very severe obesity, respectively. The association between BMI and diabetes, hypertension and cardiovascular disease largely explained these elevated costs.
 
 ---
 
-##### xsmle postestimation: predicted FE
+##### Inpatient and outpatient costs differentials wrt normal weight
 
-![](paper2.png)
+![](paper3.png)
 
 ---
 
 ##### Citation
 
-Belotti, F., Hughes, G., & Piani Mortari, A. (2017). Spatial Panel-data Models Using Stata. The Stata Journal, 17(1), 139-180. https://doi.org/10.1177/1536867X1701700109
+Atella, V., Kopinska, J., Medea, G., Belotti, F., Tosti, V., Piano Mortari, A., Cricelli, C. & Fontana, L. "Excess body weight increases the burden of age-associated chronic diseases and their associated health care expenditures". *Aging* (Albany NY). 2015 Oct 29; 7:882-892 . https://doi.org/10.18632/aging.100833
 
 ```
 @article{IMA:IMA2,
-	author = {Atella, Vincenzo and Kopinska, Joanna and Medea, Gerardo and Belotti, Federico and Tosti, Valeria and Mortari, Andrea Piano and Cricelli, Claudio and Fontana, Luigi},
+	author = {Atella, V. and Kopinska, J. and Medea, G. and Belotti, F. and Tosti, V. and Piano Mortari, A. and Cricelli, C. and Fontana, L.},
 	journal = {Aging},
 	number = {10},
 	pages = {882-892},
@@ -55,7 +53,3 @@ Belotti, F., Hughes, G., & Piani Mortari, A. (2017). Spatial Panel-data Models U
 
 
 ---
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
