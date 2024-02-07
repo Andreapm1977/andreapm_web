@@ -4,7 +4,7 @@ date: 2015-10-01
 tags: ["Expenditures","BMI","Ageing","Multimorbidity"]
 author: ["Vincenzo Atella", "Joanna Kopinska", "Gerardo Medea", "Federico Belotti", "Valeria Tosti", "Andrea Piano Mortari", "Claudio Cricelli", "Luigi Fontana"]
 description: "We study how aging and excessive adiposity drive increasing health costs."
-summary: "In this very large study, 557,145 men and women older than 18 years were analyzed to assess the association between aging, excessive adiposity drive and health costs"
+summary: "In this very large study, 557,145 men and women older than 18 years were analyzed to assess the association between aging, excessive adiposity and health costs"
 cover:
     image: "paper3.png"
     alt: "Inpatient and outpatient costs differentials wrt normal weight"
@@ -39,7 +39,7 @@ Aging and excessive adiposity are both associated with an increased risk of deve
 
 Atella, V., Kopinska, J., Medea, G., Belotti, F., Tosti, V., Piano Mortari, A., Cricelli, C. & Fontana, L. "Excess body weight increases the burden of age-associated chronic diseases and their associated health care expenditures". *Aging* (Albany NY). 2015 Oct 29; 7:882-892 . https://doi.org/10.18632/aging.100833
 
-```
+```BibTeX
 @article{IMA:IMA2,
 	author = {Atella, V. and Kopinska, J. and Medea, G. and Belotti, F. and Tosti, V. and Piano Mortari, A. and Cricelli, C. and Fontana, L.},
 	journal = {Aging},
@@ -48,7 +48,6 @@ Atella, V., Kopinska, J., Medea, G., Belotti, F., Tosti, V., Piano Mortari, A., 
 	title = {Excess body weight increases the burden of age-associated chronic diseases and their associated health care expenditures},
 	volume = {7},
 	year = {2015}}
-
 ```
 
 

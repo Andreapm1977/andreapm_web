@@ -14,12 +14,9 @@ menu:
         - name: Papers
           url: /papers/
           weight: 1
-        - name: Courses
-          url: /courses/
-          weight: 2
         - name: Projects
           url: /projects/
-          weight: 3
+          weight: 2
 
 params:
     description: "I am a Professor of Subject at the University of Place. My research covers various topics.I am an Assistant Professor of Economics at University of Rome Tor Vergata. My main interests are in micro health econometrics, microsimulation and healthcare policy"
@@ -55,8 +52,6 @@ params:
           buttons:
             - name: Papers
               url: /papers/
-            - name: Courses
-              url: /courses/
             - name: Projects
               url: /projects/
             - name: Tags
