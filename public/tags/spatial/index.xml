@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Spatial on Andrea Piano Mortari</title>
-    <link>https://andreapm1977.github.io/andreapm_web/tags/spatial/</link>
+    <link>https://andreapm1977.github.io/tags/spatial/</link>
     <description>Recent content in Spatial on Andrea Piano Mortari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://andreapm1977.github.io/andreapm_web/tags/spatial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://andreapm1977.github.io/tags/spatial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spatial panel-data models using Stata</title>
-      <link>https://andreapm1977.github.io/andreapm_web/papers/paper2/</link>
+      <link>https://andreapm1977.github.io/papers/paper2/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://andreapm1977.github.io/andreapm_web/papers/paper2/</guid>
+      <guid>https://andreapm1977.github.io/papers/paper2/</guid>
       <description>xsmle is a user-written command for spatial panel analysis.</description>
     </item>
     
     <item>
       <title>Measuring spatial effects in the presence of institutional constraints: The case of Italian Local Health Authority expenditure</title>
-      <link>https://andreapm1977.github.io/andreapm_web/papers/paper1/</link>
+      <link>https://andreapm1977.github.io/papers/paper1/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://andreapm1977.github.io/andreapm_web/papers/paper1/</guid>
+      <guid>https://andreapm1977.github.io/papers/paper1/</guid>
       <description>We investigate the issue of measuring spatial spillovers in the presence of institutional constraints that can be geographically defined</description>
     </item>
     
