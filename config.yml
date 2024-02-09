@@ -57,10 +57,10 @@ params:
             - name: Tags
               url: /andreapm_web/tags/
             - name: Archive
-              url: /andreapm_web//archive/
+              url: /andreapm_web/archive/
     socialIcons:
         - name: CV
-          url: CV.pdf
+          url: /andreapm_web/CV.pdf
         - name: Email
           url: mailto:piano.mortari@economia.uniroma2.it
         - name: Location
