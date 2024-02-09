@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Covid-19 on Andrea Piano Mortari</title>
-    <link>https://andreapm1977.github.io/andreapm_web/tags/covid-19/</link>
+    <link>https://andreapm1977.github.io/tags/covid-19/</link>
     <description>Recent content in Covid-19 on Andrea Piano Mortari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://andreapm1977.github.io/andreapm_web/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://andreapm1977.github.io/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Psychotropic drug purchases during the COVID-19 pandemic in Italy and their relationship with mobility restrictions</title>
-      <link>https://andreapm1977.github.io/andreapm_web/papers/paper9/</link>
+      <link>https://andreapm1977.github.io/papers/paper9/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://andreapm1977.github.io/andreapm_web/papers/paper9/</guid>
+      <guid>https://andreapm1977.github.io/papers/paper9/</guid>
       <description>We investigate the substantial increase in self-reported sleep disorders, anxiety and depressive symptoms during lockdown periods</description>
     </item>
     
