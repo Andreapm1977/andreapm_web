@@ -51,13 +51,13 @@ params:
           imageTitle: Prof. Andrea Piano Mortari
           buttons:
             - name: Papers
-              url: /papers/
+              url: /andreapm_web/papers/
             - name: Projects
-              url: /projects/
+              url: /andreapm_web/projects/
             - name: Tags
-              url: /tags/
+              url: /andreapm_web/tags/
             - name: Archive
-              url: /archive/
+              url: andreapm_web//archive/
     socialIcons:
         - name: CV
           url: CV.pdf
