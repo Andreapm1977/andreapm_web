@@ -3,7 +3,7 @@ title: "Obelisk"
 date: 2023-05-01
 tags: ["Childhood","Health","Obesity","RCT", "Horizon"]
 description: "To deliver scientific breakthroughs to enhance our understanding of the molecular mechanisms by which causative factors interact to drive (or prevent) the transition from normal weight to obesity during childhood."
-summary: "The main concept behind Obelisk, is dedicated to understanding, Predicting, and Preventing obesity in children and providing Precision medicine for those affected. The 4P’s approach of Obelisk involves active Pparticipation from all stakeholders including families, scientific and medical communities, daycare centres, schools, policymakers, and industry, to drive social innovation and achieve successful outcomes.
+summary: "The main concept behind Obelisk, is dedicated to understanding, Predicting, and Preventing obesity in children and providing Precision medicine for those affected. The 4P’s approach of Obelisk involves active Participation from all stakeholders including families, scientific and medical communities, daycare centres, schools, policymakers, and industry, to drive social innovation and achieve successful outcomes.
 "
 cover:
     image: "Obelisk_logo.jpg"
