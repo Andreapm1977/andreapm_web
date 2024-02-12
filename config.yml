@@ -73,6 +73,8 @@ params:
           url: https://orcid.org/0000-0002-7220-2352
         - name: GitHub
           url: https://github.com/Andreapm1977
+        - name: Twitter/X
+          url: https://twitter.com/andreapm_econ
 
     assets:
         disableHLJS: true
