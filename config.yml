@@ -17,6 +17,9 @@ menu:
         - name: Projects
           url: /projects/
           weight: 2
+        - name: Teaching
+          url: /teaching/
+          weight: 3
 
 params:
     description: "I am an Assistant Professor of Economics at Tor Vergata University of Rome. My main interests are in micro health econometrics, microsimulation and healthcare policy."
@@ -54,6 +57,8 @@ params:
               url: /andreapm_web/papers/
             - name: Projects
               url: /andreapm_web/projects/
+            - name: Teaching
+              url: /andreapm_web/teaching/
             - name: Tags
               url: /andreapm_web/tags/
             - name: Archive
