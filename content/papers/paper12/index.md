@@ -41,7 +41,7 @@ Atella, V., Belotti, F., Giaccherini, M., Medea, G., Nicolucci, A., Piano Mortar
 
 
 ```BibTeX
-@article{Atella:2023aa,
+@article{Atella:2024aa,
 	author = {Atella, Vincenzo and Belotti, Federico and Giaccherini, Matilde and Medea, Gerardo and Nicolucci, Antonio and {Piano Mortari}, Andrea and Sbraccia, Paolo},
 	journal = {Economics and Human Biology},
 	number = {},
