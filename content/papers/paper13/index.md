@@ -30,7 +30,7 @@ Data relative to 991,917 adults were analyzed. The prevalence of overweight was 
 
 ---
 
-##### Average healthcare outpatient expenditure by BMI classes
+##### Prevalence of heart failure by BMI and glucose metabolism classes
 
 ![](paper13.png)
 
