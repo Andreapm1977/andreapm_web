@@ -1,6 +1,6 @@
 ---
 title: "Microeconomics (Module II)"
-date: 2024-01-04
+date: 2024-04-01
 tags: ["Teaching","Microeconomics"]
 author: ["Andrea Piano Mortari"]
 description: "Microeconomics course for the Bachelor Degree in Business Administration"
