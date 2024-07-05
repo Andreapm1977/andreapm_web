@@ -3,7 +3,7 @@ title: "Markets and Governments: A Theoretical Appraisal (Summer School)"
 date: 2024-06-19
 tags: ["Summer School","Economic Thought","Philosophy","Political Science", "Thepry"]
 description: "Summer School 2024"
-summary: "The school is organized over four days at Villa Mondragone, in Monteporzio Catone.
+summary: "The school is organized over three days at Villa Mondragone, in Monteporzio Catone.
 Each morning is devoted to lectures. Afternoons will feature presentations of alternative perspectives, from the viewpoint of the structure of property rights, taxation regimes, social justice. No background is required, although familiarity with analytical reasoning may help."
 cover:
     image: "mgta_2.jpeg"
