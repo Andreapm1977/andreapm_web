@@ -13,7 +13,7 @@ Please contact me via email to schedule a meeting
 
 #### Location
 
-By default meetings are in my office. I am also available for virtual meetings on Zoom.
+By default meetings are in my office. I am also available for virtual meetings on Microsoft Teams.
 
 ---
 
