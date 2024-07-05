@@ -1,7 +1,7 @@
 ---
 title: "Markets and Governments: A Theoretical Appraisal (Summer School)"
 date: 2023-06-20
-tags: ["Summer School","Economic Thought","Philosophy","Political Science", "Thepry"]
+tags: ["Summer School","Economic Thought","Philosophy","Political Science", "Theory"]
 description: "Summer School 2023"
 summary: "The school is organized over four days at Villa Mondragone, in Monteporzio Catone.
 Each morning is devoted to lectures. Afternoons will feature presentations of alternative perspectives, from the viewpoint of the structure of property rights, taxation regimes, social justice. No background is required, although familiarity with analytical reasoning may help."
@@ -73,7 +73,7 @@ in Competitive Settings
 * 15:00h-16:30h: Daniel Markovits (Yale University) - The Good Life after the Age of Growth
 * 16:30h-17:00h: Closing remarks
 
-#### Poster
+#### Downloads
 
 [Poster](Poster_MGTA_2023.pdf)
 
