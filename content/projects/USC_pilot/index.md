@@ -9,7 +9,7 @@ cover:
     alt: ""
     relative: false
 editPost:
-    URL: "https://healthpolicy.usc.edu/about-the-center-for-advancing-sociodemographic-and-economic-study-of-alzheimers-disease/"
+    URL: "https://healthpolicy.usc.edu/ceases-adrd-pilot-project-awardees/"
     Text: "CeASES-ADRD"
 
 ---
