@@ -18,7 +18,7 @@ menu:
           url: projects/
           weight: 2
         - name: Teaching
-          url: /eaching/
+          url: teaching/
           weight: 3
 
 params:
