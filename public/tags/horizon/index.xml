@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Horizon on Andrea Piano Mortari</title>
+    <link>https://Andreapm1977.github.io/tags/horizon/</link>
+    <description>Recent content in Horizon on Andrea Piano Mortari</description>
+    <generator>Hugo -- 0.120.4</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Andreapm1977.github.io/tags/horizon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stage</title>
+      <link>https://Andreapm1977.github.io/projects/stage/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/projects/stage/</guid>
+      <description>An Integrated Life-Course Approach for Person-Centred Solutions and Care for Ageing with Multi-morbidity in the European Regions.</description>
+    </item>
+    <item>
+      <title>Obelisk</title>
+      <link>https://Andreapm1977.github.io/projects/obelisk/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/projects/obelisk/</guid>
+      <description>To deliver scientific breakthroughs to enhance our understanding of the molecular mechanisms by which causative factors interact to drive (or prevent) the transition from normal weight to obesity during childhood.</description>
+    </item>
+    <item>
+      <title>Longitools</title>
+      <link>https://Andreapm1977.github.io/projects/longitools/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/projects/longitools/</guid>
+      <description>To perform econometric analysis of NCD burden due to external exposome, within a life-course approach</description>
+    </item>
+  </channel>
+</rss>

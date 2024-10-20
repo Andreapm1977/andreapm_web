@@ -1,207 +1,291 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Moritz-Maria von Igelfeld</title>
-    <link>https://pascalmichaillat.org/hugo-website/tags/</link>
-    <description>Recent content in Tags on Moritz-Maria von Igelfeld</description>
-    <generator>Hugo -- 0.135.0</generator>
+    <title>Tags on Andrea Piano Mortari</title>
+    <link>https://Andreapm1977.github.io/tags/</link>
+    <description>Recent content in Tags on Andrea Piano Mortari</description>
+    <generator>Hugo -- 0.120.4</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pascalmichaillat.org/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Andreapm1977.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Academia</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/academia/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/academia/</guid>
+      <title>Healthcare</title>
+      <link>https://Andreapm1977.github.io/tags/healthcare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/healthcare/</guid>
       <description></description>
     </item>
     <item>
-      <title>Experimental Psychology</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/experimental-psychology/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/experimental-psychology/</guid>
+      <title>Microsimulation</title>
+      <link>https://Andreapm1977.github.io/tags/microsimulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/microsimulation/</guid>
       <description></description>
     </item>
     <item>
-      <title>Inner Hedgehog</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/inner-hedgehog/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/inner-hedgehog/</guid>
+      <title>Project Council</title>
+      <link>https://Andreapm1977.github.io/tags/project-council/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/project-council/</guid>
       <description></description>
     </item>
     <item>
-      <title>Invasive Thoughts</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/invasive-thoughts/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/invasive-thoughts/</guid>
+      <title>SHARE</title>
+      <link>https://Andreapm1977.github.io/tags/share/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/share/</guid>
       <description></description>
     </item>
     <item>
-      <title>Social Psychology</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/social-psychology/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/social-psychology/</guid>
+      <title>ADRD</title>
+      <link>https://Andreapm1977.github.io/tags/adrd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/adrd/</guid>
       <description></description>
     </item>
     <item>
-      <title>Dataset</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/dataset/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/dataset/</guid>
+      <title>Alzheimer</title>
+      <link>https://Andreapm1977.github.io/tags/alzheimer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/alzheimer/</guid>
       <description></description>
     </item>
     <item>
-      <title>French</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/french/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/french/</guid>
+      <title>Economic Thought</title>
+      <link>https://Andreapm1977.github.io/tags/economic-thought/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/economic-thought/</guid>
       <description></description>
     </item>
     <item>
-      <title>Irregular Verbs</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/irregular-verbs/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/irregular-verbs/</guid>
+      <title>Philosophy</title>
+      <link>https://Andreapm1977.github.io/tags/philosophy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/philosophy/</guid>
       <description></description>
     </item>
     <item>
-      <title>Italian</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/italian/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/italian/</guid>
+      <title>Political Science</title>
+      <link>https://Andreapm1977.github.io/tags/political-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/political-science/</guid>
       <description></description>
     </item>
     <item>
-      <title>Philology</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/philology/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/philology/</guid>
+      <title>Summer School</title>
+      <link>https://Andreapm1977.github.io/tags/summer-school/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/summer-school/</guid>
       <description></description>
     </item>
     <item>
-      <title>Portuguese</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/portuguese/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/portuguese/</guid>
+      <title>Thepry</title>
+      <link>https://Andreapm1977.github.io/tags/thepry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/thepry/</guid>
       <description></description>
     </item>
     <item>
-      <title>Python</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/python/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/python/</guid>
+      <title>Blood Glucose</title>
+      <link>https://Andreapm1977.github.io/tags/blood-glucose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/blood-glucose/</guid>
       <description></description>
     </item>
     <item>
-      <title>Romance Languages</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/romance-languages/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/romance-languages/</guid>
+      <title>BMI</title>
+      <link>https://Andreapm1977.github.io/tags/bmi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/bmi/</guid>
       <description></description>
     </item>
     <item>
-      <title>Simulations</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/simulations/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/simulations/</guid>
+      <title>Health</title>
+      <link>https://Andreapm1977.github.io/tags/health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/health/</guid>
       <description></description>
     </item>
     <item>
-      <title>Spanish</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/spanish/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/spanish/</guid>
+      <title>Microeconomics</title>
+      <link>https://Andreapm1977.github.io/tags/microeconomics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/microeconomics/</guid>
       <description></description>
     </item>
     <item>
-      <title>History of Oil</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/history-of-oil/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/history-of-oil/</guid>
+      <title>Teaching</title>
+      <link>https://Andreapm1977.github.io/tags/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/teaching/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mediterranean World</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/mediterranean-world/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/mediterranean-world/</guid>
+      <title>Research Methods</title>
+      <link>https://Andreapm1977.github.io/tags/research-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/research-methods/</guid>
       <description></description>
     </item>
     <item>
-      <title>Oleic Science</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/oleic-science/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/oleic-science/</guid>
+      <title>Expenditures</title>
+      <link>https://Andreapm1977.github.io/tags/expenditures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/expenditures/</guid>
       <description></description>
     </item>
     <item>
-      <title>Canine Pulmonary Efficiency</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/canine-pulmonary-efficiency/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/canine-pulmonary-efficiency/</guid>
+      <title>Ageing</title>
+      <link>https://Andreapm1977.github.io/tags/ageing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/ageing/</guid>
       <description></description>
     </item>
     <item>
-      <title>Canine Science</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/canine-science/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/canine-science/</guid>
+      <title>Chronic diseases</title>
+      <link>https://Andreapm1977.github.io/tags/chronic-diseases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/chronic-diseases/</guid>
       <description></description>
     </item>
     <item>
-      <title>Experimental Zoology</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/experimental-zoology/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/experimental-zoology/</guid>
+      <title>Horizon</title>
+      <link>https://Andreapm1977.github.io/tags/horizon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/horizon/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sausage Dogs</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/sausage-dogs/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/sausage-dogs/</guid>
+      <title>Multimorbidity</title>
+      <link>https://Andreapm1977.github.io/tags/multimorbidity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/multimorbidity/</guid>
       <description></description>
     </item>
     <item>
-      <title>Zoology</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/zoology/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/zoology/</guid>
+      <title>Theory</title>
+      <link>https://Andreapm1977.github.io/tags/theory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/theory/</guid>
       <description></description>
     </item>
     <item>
-      <title>Portugese</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/portugese/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/portugese/</guid>
+      <title>Amelia</title>
+      <link>https://Andreapm1977.github.io/tags/amelia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/amelia/</guid>
       <description></description>
     </item>
     <item>
-      <title>Celtic Languages</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/celtic-languages/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/celtic-languages/</guid>
+      <title>Data</title>
+      <link>https://Andreapm1977.github.io/tags/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/data/</guid>
       <description></description>
     </item>
     <item>
-      <title>Irish</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/irish/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/irish/</guid>
+      <title>Italy</title>
+      <link>https://Andreapm1977.github.io/tags/italy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/italy/</guid>
       <description></description>
     </item>
     <item>
-      <title>Language Modernization</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/language-modernization/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/language-modernization/</guid>
+      <title>Childhood</title>
+      <link>https://Andreapm1977.github.io/tags/childhood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/childhood/</guid>
       <description></description>
     </item>
     <item>
-      <title>Profanity</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/profanity/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/profanity/</guid>
+      <title>Obesity</title>
+      <link>https://Andreapm1977.github.io/tags/obesity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/obesity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RCT</title>
+      <link>https://Andreapm1977.github.io/tags/rct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/rct/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Covid-19</title>
+      <link>https://Andreapm1977.github.io/tags/covid-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobility</title>
+      <link>https://Andreapm1977.github.io/tags/mobility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/mobility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Causal inference</title>
+      <link>https://Andreapm1977.github.io/tags/causal-inference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/causal-inference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unemployment</title>
+      <link>https://Andreapm1977.github.io/tags/unemployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/unemployment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exposome</title>
+      <link>https://Andreapm1977.github.io/tags/exposome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/exposome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Epigenetics</title>
+      <link>https://Andreapm1977.github.io/tags/epigenetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/epigenetics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health policy</title>
+      <link>https://Andreapm1977.github.io/tags/health-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/health-policy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>https://Andreapm1977.github.io/tags/productivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Econometrics</title>
+      <link>https://Andreapm1977.github.io/tags/econometrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/econometrics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>https://Andreapm1977.github.io/tags/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spatial</title>
+      <link>https://Andreapm1977.github.io/tags/spatial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/tags/spatial/</guid>
       <description></description>
     </item>
   </channel>

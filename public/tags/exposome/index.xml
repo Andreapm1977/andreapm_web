@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Exposome on Andrea Piano Mortari</title>
+    <link>https://Andreapm1977.github.io/tags/exposome/</link>
+    <description>Recent content in Exposome on Andrea Piano Mortari</description>
+    <generator>Hugo -- 0.120.4</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Andreapm1977.github.io/tags/exposome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LongITools: Dynamic longitudinal exposome trajectories in cardiovascular and metabolic noncommunicable diseases</title>
+      <link>https://Andreapm1977.github.io/papers/paper8/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/papers/paper8/</guid>
+      <description>We study the complex environmental contributors to the surge in cardiovascular and metabolic noncommunicable diseases</description>
+    </item>
+    <item>
+      <title>Longitools</title>
+      <link>https://Andreapm1977.github.io/projects/longitools/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/projects/longitools/</guid>
+      <description>To perform econometric analysis of NCD burden due to external exposome, within a life-course approach</description>
+    </item>
+  </channel>
+</rss>

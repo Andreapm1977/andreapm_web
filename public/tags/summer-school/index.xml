@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Summer School on Andrea Piano Mortari</title>
+    <link>https://Andreapm1977.github.io/tags/summer-school/</link>
+    <description>Recent content in Summer School on Andrea Piano Mortari</description>
+    <generator>Hugo -- 0.120.4</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Andreapm1977.github.io/tags/summer-school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markets and Governments: A Theoretical Appraisal (Summer School)</title>
+      <link>https://Andreapm1977.github.io/projects/mgta_2/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/projects/mgta_2/</guid>
+      <description>Summer School 2024</description>
+    </item>
+    <item>
+      <title>Markets and Governments: A Theoretical Appraisal (Summer School)</title>
+      <link>https://Andreapm1977.github.io/projects/mgta_1/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/projects/mgta_1/</guid>
+      <description>Summer School 2023</description>
+    </item>
+  </channel>
+</rss>

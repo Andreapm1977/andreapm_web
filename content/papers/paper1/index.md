@@ -1,18 +1,17 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-lastmod: 2024-07-12
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "Measuring spatial effects in the presence of institutional constraints: The case of Italian Local Health Authority expenditure"
+date: 2014-06-01
+tags: ["Health","Spatial","Expenditures","Econometrics"]
+author: ["Vincenzo Atella", "Federico Belotti", "Domenico Depalo", "Andrea Piano Mortari"]
+description: "We investigate the issue of measuring spatial spillovers in the presence of institutional constraints that can be geographically defined"
+summary: "We partition the standard contiguity matrix in two matrices (within and between), disentangling the overall spatial effect and deriving testable implications. In the application we study expenditures from the Italian Local Health Authority using spatial panel"
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "Total spillovers effect partition"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://doi.org/10.1016/j.regsciurbeco.2014.07.007"
+    Text: "Regional Science and Urban Economics"
 
 ---
 
@@ -21,18 +20,17 @@ editPost:
 ##### Download
 
 + [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
+
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Over the last decades spatial econometric models have represented a common tool for measuring spillover effects across different geographical entities (counties, provinces, regions or nations). The aim of this paper is to investigate the issue of measuring spatial spillovers in the presence of institutional constraints that can be geographically defined. In these cases, assuming that spatial effects are not affected by the institutional setting may produce biased estimates due to the composition of two distinct sources of spatial dependence. Our approach is based on redefining the contiguity structure so as to account for the institutional constraints using two different contiguity matrices: the within matrix, which defines contiguity among units obeying the same institutional setting, and the between matrix, which traces spatial linkages among contiguous units across different jurisdictions. This approach allows to disentangle the two sources of spatial correlation and to easily test for the existence of binding institutional constraints. From the econometric perspective, we extend Lacombe (2004) approach to incorporate the aforementioned institutional constraints in a spatial Durbin model with individual specific slopes, while inference is conducted using a two-way cluster robust variance–covariance matrix controlling for both spatial and time correlations. We apply this methodology to analyze spatial dependence of per-capita public health expenditures in Italyat Local Health Authority level using a balanced panel dataset from 2001 to 2005. Our results show robust evidence of a significant and positive spatial coefficient for the within effect, while the between effect, although significant, is very close to zero, thus confirming the importance and validity of the proposed approach.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Total, direct and indirect spatial effect partition
 
 ![](paper1.png)
 
@@ -40,23 +38,15 @@ This paper reviews unusual uses for olive oil throughout the Mediterranean world
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Vincenzo, A., Belotti, F., Depalo, D. & Piano Mortari, A. "Measuring spatial effects in the presence of institutional constraints: The case of Italian Local Health Authority expenditure", *Regional Science and Urban Economics*, Volume 49, 2014, https://doi.org/10.1016/j.regsciurbeco.2014.07.007.
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@article{atella_measuring_2014,
+author = {Atella, V. and Belotti, F. and Depalo, D. and {Piano Mortari}, A.},
+doi = {10.1016/j.regsciurbeco.2014.07.007},
+journal = {Regional Science and Urban Economics},
+pages = {232--241},
+title ={Measuring spatial effects in the presence of institutional constraints: {The} case of {Italian} {Local} {Health} {Authority} expenditure},
+volume = {49},
+year = {2014}}
 ```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)

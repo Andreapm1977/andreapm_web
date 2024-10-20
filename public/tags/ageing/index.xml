@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ageing on Andrea Piano Mortari</title>
+    <link>https://Andreapm1977.github.io/tags/ageing/</link>
+    <description>Recent content in Ageing on Andrea Piano Mortari</description>
+    <generator>Hugo -- 0.120.4</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Andreapm1977.github.io/tags/ageing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stage</title>
+      <link>https://Andreapm1977.github.io/projects/stage/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/projects/stage/</guid>
+      <description>An Integrated Life-Course Approach for Person-Centred Solutions and Care for Ageing with Multi-morbidity in the European Regions.</description>
+    </item>
+    <item>
+      <title>The future of the elderly population health status: Filling a knowledge gap</title>
+      <link>https://Andreapm1977.github.io/papers/paper6/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/papers/paper6/</guid>
+      <description>We present the results obtained from several dynamic microsimulation models of the Future Elderly Model family for 12 OECD countries</description>
+    </item>
+    <item>
+      <title>Trends in age‐related disease burden and healthcare utilization</title>
+      <link>https://Andreapm1977.github.io/papers/paper5/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/papers/paper5/</guid>
+      <description>We document rising trends in the prevalence of chronic disease and associated healthcare costs in Italy</description>
+    </item>
+    <item>
+      <title>Excess body weight increases the burden of age-associated chronic diseases and their associated health care expenditures</title>
+      <link>https://Andreapm1977.github.io/papers/paper3/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/papers/paper3/</guid>
+      <description>We study how aging and excessive adiposity drive increasing health costs.</description>
+    </item>
+  </channel>
+</rss>

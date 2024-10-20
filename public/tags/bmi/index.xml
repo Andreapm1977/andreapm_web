@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BMI on Andrea Piano Mortari</title>
+    <link>https://Andreapm1977.github.io/tags/bmi/</link>
+    <description>Recent content in BMI on Andrea Piano Mortari</description>
+    <generator>Hugo -- 0.120.4</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Andreapm1977.github.io/tags/bmi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The interplay between excess weight and hyper-glycemia on NCDs in Italy: results from a cross-sectional study</title>
+      <link>https://Andreapm1977.github.io/papers/paper13/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/papers/paper13/</guid>
+      <description>We evaluate the prevalence of chronic comorbidities according to BMI classes and assess the interplay between excess body weight and blood glucose abnormalities in increasing the risk of major chronic diseases.</description>
+    </item>
+    <item>
+      <title>Lifetime costs of overweight and obesity in Italy</title>
+      <link>https://Andreapm1977.github.io/papers/paper12/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/papers/paper12/</guid>
+      <description>We simulate BMI lifetime profile costs based on longitudinal electronic clinical data on a large representative sample of the Italian population</description>
+    </item>
+    <item>
+      <title>Outpatient healthcare costs associated with overweight and obesity in Italy</title>
+      <link>https://Andreapm1977.github.io/papers/paper11/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/papers/paper11/</guid>
+      <description>Data relative to 991,917 adults were analyzed. Annual per capita expenditure rose from 252.2 Euro among individuals with normal weight to 752.9 Euro among those with class 3 obesity</description>
+    </item>
+    <item>
+      <title>Excess body weight increases the burden of age-associated chronic diseases and their associated health care expenditures</title>
+      <link>https://Andreapm1977.github.io/papers/paper3/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://Andreapm1977.github.io/papers/paper3/</guid>
+      <description>We study how aging and excessive adiposity drive increasing health costs.</description>
+    </item>
+  </channel>
+</rss>
