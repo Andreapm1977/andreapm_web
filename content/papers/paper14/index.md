@@ -29,9 +29,9 @@ We run a laboratory experiment to investigate how group size affects coordinatio
 
 ---
 
-##### Prevalence of heart failure by BMI and glucose metabolism classes
+##### Average marginal effect of Expectations across rounds
 
-![](paper13.png)
+![](paper14.png)
 
 ---
 
