@@ -3,8 +3,8 @@ title: "Coordination failure in experimental banks of different sizes"
 date: 2024-11-10
 tags: ["Experimental", "Coordination game", "Bank"]
 author: ["Federico Belotti", "Eloisa Campioni", "Vittorio Larocca", "Francesca Marazzi", "Luca Panaccione", "Andrea Piano Mortari"]
-description: "We run a laboratory experiment to investigate how group size affects coordination in a bank-run game, in which participants choose simultaneously whether to withdraw or not and group members change over time."
-summary: "In the initial round(s), all groups exhibit a similar withdrawal rate of about 40%; then, large and medium banks converge to the bank-run equilibrium, while small banks exhibit no systematic convergence."
+description: "In the initial round(s), all groups exhibit a similar withdrawal rate of about 40%; then, large and medium banks converge to the bank-run equilibrium, while small banks exhibit no systematic convergence."
+summary: "We run a laboratory experiment to investigate how group size affects coordination in a bank-run game, in which participants choose simultaneously whether to withdraw or not and group members change over time."
 cover:
     image: "paper14.png"
     alt: "Average marginal effect of Expectations across rounds"
