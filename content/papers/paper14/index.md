@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [not yet available]()
++ [Paper](paper14.pdf)
 
 ---
 
