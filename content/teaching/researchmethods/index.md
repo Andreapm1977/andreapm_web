@@ -1,6 +1,6 @@
 ---
 title: "Research Methods for Social Sciences (Module I)"
-date: 2024-03-01
+date: 2025-01-29
 tags: ["Teaching","Research Methods"]
 author: ["Andrea Piano Mortari"]
 description: "Research Methods for Social Sciences course for the Bachelor Degree in Global Governance"
