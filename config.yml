@@ -67,7 +67,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:piano.mortari@economia.uniroma2.it
+          url: mailto:andrea.pianomortari@uniroma2.eu
         - name: Location
           url: location/
         - name: Office Hours
