@@ -22,7 +22,7 @@ menu:
           weight: 3
 
 params:
-    description: "I am an Assistant Professor of Economics at Tor Vergata University of Rome. My main interests are in micro health econometrics, microsimulation and healthcare policy."
+    description: "I am an Tenure Track Assistant Professor of Public Economics at Tor Vergata University of Rome. My main interests are in micro health econometrics, microsimulation and healthcare policy."
     author: Andrea Piano Mortari
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
